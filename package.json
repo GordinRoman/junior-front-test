@@ -1,0 +1,13 @@
+{
+  "name": "junior-front-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "JS",
+    "JavaScript"
+  ],
+  "author": "Gordin Roman <risus.hunt@gmail.com>",
+  "license": "ISC"
+}
